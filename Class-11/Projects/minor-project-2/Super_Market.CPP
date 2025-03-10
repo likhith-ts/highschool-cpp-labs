@@ -21,11 +21,11 @@ int main()
  system("CLS");
  char ch;int ch1;
  cout<<"\n\n\n";
- cout<<"------------------------------------------------------------------------";
- cout<<setw(50)<<"STARK DIGITAL"<<endl;
- cout<<"------------------------------------------------------------------------";
- cout<<"\n\n\n";
- cout<<"customer menu\n\n";
+ cout<<"----------------------------------------------------------------\n";
+ cout<<setw(40)<<"STARK DIGITAL"<<endl;
+ cout<<"----------------------------------------------------------------\n";
+ cout<<"\n\n";
+ cout<<"--------------------------Customer Menu-------------------------\n\n";
  cout<<"1.MENU\n2.PLACE ORDER\n3.BILLING PAGE\n4.EXIT\n\n";
  cout<<"\nenter our option (1,2,3,4):";
  cin>>ch1;
