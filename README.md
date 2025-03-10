@@ -25,8 +25,8 @@ cpp-school-labs/
   - Experiment 02: [Title](/Class11/Experiments/Exp02/README.md)
   - ...
 - **Projects (2)**
-  - Minor Project 1: [Title](/Class11/Projects/MinorProject1/README.md)
-  - Minor Project 2: [Title](/Class11/Projects/MinorProject2/README.md)
+  - Minor Project 1: [Title](/Class11/Projects/minor-project-1/README.md)
+  - Minor Project 2: [Title](/Class11/Projects/minor-project-2/README.md)
 
 ### 🔹 Class 12
 - **Experiments (20)**
@@ -34,7 +34,7 @@ cpp-school-labs/
   - Experiment 02: [Title](/Class12/Experiments/Exp02/README.md)
   - ...
 - **Projects (1)**
-  - Major Project: [Title](/Class12/Projects/MajorProject/README.md)
+  - Major Project: [Title](/Class12/Projects/major-project/README.md)
 
 ## 🛠 Technologies Used
 - C++
